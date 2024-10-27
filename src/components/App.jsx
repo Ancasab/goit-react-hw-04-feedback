@@ -67,6 +67,10 @@ export const App = () => {
 };
 
 
+// Modificări efectuate:
+// Managementul state-urilor: s-a înlocuit gestionarea stării bazată pe clasă cu useState pentru a gestiona numărul de feedback-uri.
+// Metode: Metodele de clasă s-au convertit în funcții inline din componenta funcțională.
+// Logica de randare: s-a păstrat logica de randare similară, dar am ajustat-o ​​pentru a funcționa cu noua structură de stare.
 
 // import React, { Component } from 'react';
 // import { Statistics } from './Statistics/Statistics';
