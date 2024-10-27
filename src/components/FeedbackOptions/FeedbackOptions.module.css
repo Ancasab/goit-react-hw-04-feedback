@@ -1,0 +1,14 @@
+.listaButoane {
+    display: flex;
+    justify-content:flex-start;
+    gap: 20px;
+    margin-top: 20px;
+    padding: 0;
+}
+
+.btnFeedback {
+    cursor: pointer;
+    
+    border-radius: 5px;
+    padding: 0.25em 1em;
+}

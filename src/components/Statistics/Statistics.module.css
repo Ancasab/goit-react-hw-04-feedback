@@ -1,0 +1,20 @@
+.listaStats {
+    max-width: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:left;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding: 0;
+}
+
+.itemStats {
+    font-size: 18px;
+    font-weight: 500;
+
+}
+
+p {
+    margin: 0 auto;
+}

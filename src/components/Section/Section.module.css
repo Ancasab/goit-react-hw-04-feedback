@@ -1,0 +1,17 @@
+.section {
+    margin: 0 auto;
+    padding: 20px 0;
+    width: max-400px;
+    font-weight: 400;
+    font-size: 18px;
+    color: black;
+}
+.sectionTitle {
+    
+    text-align: left;
+    margin: 0;
+    font-weight: 700;
+    font-size: 25px;
+    color: black;
+
+}
